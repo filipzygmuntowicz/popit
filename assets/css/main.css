@@ -202,7 +202,7 @@ figcaption .btn{
         text-align: center;
         color: white;
     }
-    .hamburger_menu{
+    .nav__hamburger__menu{
         
         width:100%;
         background-color: black;
@@ -213,10 +213,10 @@ figcaption .btn{
         left: 0%;
         transition: 0.3s;
     }
-    .hamburger_menu.active{
+    .nav__hamburger__menu.active{
         top:0;
     }
-    .hamburger_icon{
+    .nav__hamburger__icon{
         right: 2.5%;
         top: 7.5%;
         position:absolute;
